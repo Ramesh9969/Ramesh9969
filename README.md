@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RameshSanjaya
-- 👀 I’m interested in Mobile and web based app developing.
-- 🌱 I’m currently learning in UCSC(university of colombo School Of computing)
+- 👀 I’m interested in Salesforce.
+- 🌱 I’m currently Working as a application developer. 
 - 📫 How to reach me: rstechnolk@gmail.com
 
 <!---
